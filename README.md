@@ -2,7 +2,29 @@
 
 A repository containing links to useful phonological software. The goal is to provide a one-stop shop for phonology-related software.
 
-If you want to add any resources to this repository, please open a pull request with your proposed changes, or email cjmayer@uci.edu.
+## How to contribute
+
+### Guidelines
+
+* Software described in published papers or conference proceedings is preferred
+* Please provide a link to an implementation. This could be a GitHub repo or some other website hosting the code.
+* Please place your resource in the appropriate section. If there is no topic you feel adequately describes your software, you can add a new topic or subtopic.
+* Please indicate which language the program is written in.
+
+### Adding a new resource
+
+The best way to add a new resource is to create a pull request via the GitHub user interface.
+
+1. Click on the edit button in the top right corner of this file.
+
+2. This will let you edit the Markdown of the file. See [here](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) for information about Markdown syntax. Add your entry.
+
+3. Click the "Preview changes" tab at the top of the page to verify your entry is formatted correctly.
+
+4. Once you're happy with your changes, scroll to the buttom of the page to the box labeled "Commit changes". Add a name for your proposed change and a description if you wish. Select ""Create a new branch for this commit and start a pull request" and then click "Propose file change".
+
+If you are uncomfortable using GitHub, you can email cjmayer@uci.edu with your proposed changes.
+
 
 ## Optimality theory
 
