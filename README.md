@@ -53,6 +53,7 @@ This includes resources that are designed to learn or model specific types of ph
 This includes resources that are focused on learning or modeling general formal grammars (FSAs, FSTs, etc.). These grammars are not designed for any individual phonological phenomenon (such as feature learning or phonotactic learning). They can be freely adapted or used for these more specific tasks.
 
 ### General toolkits
+* [BMRS](https://github.com/jhdeov/BMRS): A Python implementation for Boolean Monadic Recursive Schemes, essentially a logic-based transducer. 
 * [Language Toolkit](https://github.com/vvulpes0/Language-Toolkit-2): A Haskell library and DSL for constructing, factoring, and learning subregular stringsets.
 * [SigmaPie](https://github.com/alenaks/SigmaPie): A Python library for subregular (SL, TSL, MTSL, SP) and subsequent (OSTIA) learning algorithms. Can do scanning, sample generation, and negative-positive grammar conversion.
 ### Individual learners
@@ -66,6 +67,7 @@ This includes resources that collect cross-linguistic phenomena alongside either
 * [DoReCo](https://doreco.huma-num.fr/): A cross-linguistic speech corpus that is word-aligned and phone-aligned. It can be used as a general dataset for corpus phonetics
 * [RedTyp](https://github.com/jhdeov/RedTyp): A cross-linguistic database of reduplication patterns, along with a finite-state implementation (for 2-way FSTs), incomparable to the [Graz Database on Reduplication](http://reduplication.uni-graz.at/).
 * [StressTyp](http://st2.ullet.net/?): A cross-linguistic database of stress patterns, along with a finite-state implementation (FSAs). 
+* [WikiPron](https://github.com/CUNY-CL/wikipron/): A cross-linguistic database of IPA transcriptons that are extracted from Wiktionary. 
 
 ## Speech corpus tools
 This includes resources that you can use to work on a speech corpus. 
