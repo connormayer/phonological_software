@@ -65,6 +65,8 @@ This includes resources that are focused on learning or modeling general formal 
 This includes resources that collect cross-linguistic phenomena alongside either a) formal grammars or b) enough annotation that can facilitate in-depth phonological analyses
 
 * [DoReCo](https://doreco.huma-num.fr/): A cross-linguistic speech corpus that is word-aligned and phone-aligned. It can be used as a general dataset for corpus phonetics
+* [OpenSLR](https://openslr.org/index.html): A cross-linguistic directory of open-access speech corpora. 
+* [Open Speech Corpora](https://github.com/coqui-ai/open-speech-corpora): A GitHub repo that is a directory to open-access speech corpora. 
 * [RedTyp](https://github.com/jhdeov/RedTyp): A cross-linguistic database of reduplication patterns, along with a finite-state implementation (for 2-way FSTs), incomparable to the [Graz Database on Reduplication](http://reduplication.uni-graz.at/).
 * [StressTyp](http://st2.ullet.net/?): A cross-linguistic database of stress patterns, along with a finite-state implementation (FSAs). 
 * [WikiPron](https://github.com/CUNY-CL/wikipron/): A cross-linguistic database of IPA transcriptons that are extracted from Wiktionary. 
