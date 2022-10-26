@@ -30,20 +30,48 @@ If you are uncomfortable using GitHub, you can email cjmayer@uci.edu with your p
 
 ### General
 * [OTSoft](https://linguistics.ucla.edu/people/hayes/otsoft/): A Windows program that implements several constraint ranking/weighting procedures, as well as other useful procedures.
+* [OT-Help](https://people.umass.edu/othelp/): Comparable to OTSoft but works on Mac. 
 
 ### Maxent OT
 * [Hayes and Wilson learner](https://linguistics.ucla.edu/people/hayes/Phonotactics/index.htm): A Java program that learns MaxEnt phonotactic grammars from positive data.
 * [maxent.ot](https://github.com/connormayer/maxent.ot): An R package for fitting and evaluating MaxEnt OT grammars.
 * [Maxent Grammar Tool](https://linguistics.ucla.edu/people/hayes/MaxentGrammarTool/): A Java tool for fitting MaxEnt grammars.
 
-## Phonological class learning
+## Phonology-specific learners
+This includes resources that are designed to learn or model specific types of phonological phenomena, such as features or classes. 
+
+### Phonological class learning
 * [Distributional learner](https://github.com/connormayer/distributional_learning): A Python program that learns phonological classes from distributional information.
 
-## Phonological feature learning
+### Phonological feature learning
 * [Featurizer](https://github.com/connormayer/featurizer): A Python program that learns phonological feature systems from a set of input classes.
 
-## Phonotactic learning
+### Phonotactic learning
 * [Phonotactic Language Model](https://github.com/MaxAndrewNelson/Phonotactic_LM): A Python program that learns phonotactics using recurrent neural networks.
 
 ## Formal language phonology
+This includes resources that are focused on learning or modeling general formal grammars (FSAs, FSTs, etc.). These grammars are not designed for any individual phonological phenomenon (such as feature learning or phonotactic learning). They can be freely adapted or used for these more specific tasks.
+
+### General toolkits
+* [Language Toolkit](https://github.com/vvulpes0/Language-Toolkit-2): A Haskell library and DSL for constructing, factoring, and learning subregular stringsets.
+* [SigmaPie](https://github.com/alenaks/SigmaPie): A Python library for subregular (SL, TSL, MTSL, SP) and subsequent (OSTIA) learning algorithms. Can do scanning, sample generation, and negative-positive grammar conversion.
+### Individual learners
+* [2IMTSL](https://github.com/alenaks/2IMTSL): A Python implementation for learning MITSL(2,2) grammars. 
+* [OSTIA](https://github.com/alenaks/OSTIA): A Python implementation for the OSTIA learning algorithm.
 * [pTSL](https://github.com/connormayer/pTSL): A Python program for implementing and fitting probabilistic tier-based strictly local grammars.
+
+## Data repositories
+This includes resources that collect cross-linguistic phenomena alongside either a) formal grammars or b) enough annotation that can facilitate in-depth phonological analyses
+
+* [DoReCo](https://doreco.huma-num.fr/): A cross-linguistic speech corpus that is word-aligned and phone-aligned. It can be used as a general dataset for corpus phonetics
+* [RedTyp](https://github.com/jhdeov/RedTyp): A cross-linguistic database of reduplication patterns, along with a finite-state implementation (for 2-way FSTs), incomparable to the [Graz Database on Reduplication](http://reduplication.uni-graz.at/).
+* [StressTyp](http://st2.ullet.net/?): A cross-linguistic database of stress patterns, along with a finite-state implementation (FSAs). 
+
+## Speech corpus tools
+This includes resources that you can use to work on a speech corpus. 
+
+### Forced alignment
+Forced alignment tools can speed up your annotation time. Different alignment tools offer pre-existing alignment models for certain languages, and some can let you train your own model on a new language. To learn more about a specific aligner, refer to the respective repo. 
+
+* [Montreal Forced Aligner](https://montreal-forced-aligner.readthedocs.io/en/latest/) with [tutorials](https://montreal-forced-aligner.readthedocs.io/en/latest/). 
+
