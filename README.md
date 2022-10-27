@@ -81,8 +81,13 @@ This includes resources that collect cross-linguistic phenomena alongside either
 ### Toy languages
 * Datasets from the [Lexically-Scaled-MaxEnt](https://github.com/chughto/Lexically-Scaled-MaxEnt) learner. 
 
-## Speech corpus tools
-This includes resources that you can use to work on a speech corpus. 
+## Corpus tools
+This includes resources that you can use to work on a written or speech corpus. 
+
+### Phonological analysis
+These are tools that can quantify or analyze phonological aspects of a corpus.
+
+* [Vowel Harmony Calculator](https://harmony.swarthmore.edu/): A tool for quantifying vowel co-occurence (harmony and disharmony) in a given corpus.
 
 ### Forced alignment
 Forced alignment tools can speed up your annotation time. Different alignment tools offer pre-existing alignment models for certain languages, and some can let you train your own model on a new language. To learn more about a specific aligner, refer to the respective repo. 
