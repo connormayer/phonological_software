@@ -29,11 +29,13 @@ If you are uncomfortable using GitHub, you can email cjmayer@uci.edu with your p
 ## Optimality theory
 
 ### General
+* [Hidden Structure Suite](https://github.com/gajajarosz/hidden-structure): A suite of constraint-based learning algorithms for phonological hidden structure (feet and underlying representations).
 * [OTSoft](https://linguistics.ucla.edu/people/hayes/otsoft/): A Windows program that implements several constraint ranking/weighting procedures, as well as other useful procedures.
 * [OT-Help](https://people.umass.edu/othelp/): Comparable to OTSoft but works on Mac. 
 
 ### Maxent OT
 * [Hayes and Wilson learner](https://linguistics.ucla.edu/people/hayes/Phonotactics/index.htm): A Java program that learns MaxEnt phonotactic grammars from positive data.
+* [Lexically-Scaled-MaxEnt](https://github.com/chughto/Lexically-Scaled-MaxEnt): A Python-implementation for learning lexically-scaled MaxEnt grammars. 
 * [maxent.ot](https://github.com/connormayer/maxent.ot): An R package for fitting and evaluating MaxEnt OT grammars.
 * [Maxent Grammar Tool](https://linguistics.ucla.edu/people/hayes/MaxentGrammarTool/): A Java tool for fitting MaxEnt grammars.
 
@@ -65,8 +67,9 @@ This includes resources that are focused on learning or modeling general formal 
 * [pTSL](https://github.com/connormayer/pTSL): A Python program for implementing and fitting probabilistic tier-based strictly local grammars.
 
 ## Data repositories
-This includes resources that collect cross-linguistic phenomena alongside either a) formal grammars or b) enough annotation that can facilitate in-depth phonological analyses
+This includes resources that collect cross-linguistic phenomena alongside either a) formal grammars or b) enough annotation that can facilitate in-depth phonological analyses. The data can be from real languages or toy languages.
 
+### Real languages
 * [DoReCo](https://doreco.huma-num.fr/): A cross-linguistic speech corpus that is word-aligned and phone-aligned. It can be used as a general dataset for corpus phonetics
 * [OpenSLR](https://openslr.org/index.html): A cross-linguistic directory of open-access speech corpora. 
 * [Open Speech Corpora](https://github.com/coqui-ai/open-speech-corpora): A GitHub repo that is a directory to open-access speech corpora. 
@@ -74,6 +77,9 @@ This includes resources that collect cross-linguistic phenomena alongside either
 * [StressTyp](http://st2.ullet.net/?): A cross-linguistic database of stress patterns, along with a finite-state implementation (FSAs). 
 * [UCLA Phonetics Lab Archive](archive.phonetics.ucla.edu/): A cross-linguistic database of recoreded word lists and other material. 
 * [WikiPron](https://github.com/CUNY-CL/wikipron/): A cross-linguistic database of IPA transcriptons that are extracted from Wiktionary. 
+
+### Toy languages
+* Datasets from the [Lexically-Scaled-MaxEnt](https://github.com/chughto/Lexically-Scaled-MaxEnt) learner. 
 
 ## Speech corpus tools
 This includes resources that you can use to work on a speech corpus. 
