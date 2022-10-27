@@ -47,6 +47,7 @@ This includes resources that are designed to learn or model specific types of ph
 * [Featurizer](https://github.com/connormayer/featurizer): A Python program that learns phonological feature systems from a set of input classes.
 
 ### Phonotactic learning
+* [BUFIA](https://github.com/heinz-jeffrey/bufia): A non-stochastic learning algorithm which returns phonotactic constraints over a representation, using phonological features and logical abduction.
 * [Phonotactic Language Model](https://github.com/MaxAndrewNelson/Phonotactic_LM): A Python program that learns phonotactics using recurrent neural networks.
 
 ## Formal language phonology
@@ -55,6 +56,8 @@ This includes resources that are focused on learning or modeling general formal 
 ### General toolkits
 * [BMRS](https://github.com/jhdeov/BMRS): A Python implementation for Boolean Monadic Recursive Schemes, essentially a logic-based transducer. 
 * [Language Toolkit](https://github.com/vvulpes0/Language-Toolkit-2): A Haskell library and DSL for constructing, factoring, and learning subregular stringsets.
+* [Pyfoma](https://github.com/mhulden/pyfoma): A Python implementation for creating and learning finite-state machines.
+* [Pynini](https://www.openfst.org/twiki/bin/view/GRM/Pynini):  A Python implementation for creating and using finite-state machines (weighted and unweighted), with support for rewrite rules.
 * [SigmaPie](https://github.com/alenaks/SigmaPie): A Python library for subregular (SL, TSL, MTSL, SP) and subsequent (OSTIA) learning algorithms. Can do scanning, sample generation, and negative-positive grammar conversion.
 ### Individual learners
 * [2IMTSL](https://github.com/alenaks/2IMTSL): A Python implementation for learning MITSL(2,2) grammars. 
