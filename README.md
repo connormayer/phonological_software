@@ -52,6 +52,9 @@ This includes resources that are designed to learn or model specific types of ph
 * [BUFIA](https://github.com/heinz-jeffrey/bufia): A non-stochastic learning algorithm which returns phonotactic constraints over a representation, using phonological features and logical abduction.
 * [Phonotactic Language Model](https://github.com/MaxAndrewNelson/Phonotactic_LM): A Python program that learns phonotactics using recurrent neural networks.
 
+### Features
+* [Pheatures Spreadsheet](https://linguistics.ucla.edu/people/hayes/120a/Pheatures/): A Java program with a GUI that lets you use features to select a natural class from a phone inventory and apply feature changes to it. Useful for students learning features, for teachers checking student solutions for correctness, and for analysts wanting to check their work.
+
 ## Formal language phonology
 This includes resources that are focused on learning or modeling general formal grammars (FSAs, FSTs, etc.). These grammars are not designed for any individual phonological phenomenon (such as feature learning or phonotactic learning). They can be freely adapted or used for these more specific tasks.
 
