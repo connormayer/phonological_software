@@ -75,6 +75,8 @@ This includes resources that collect cross-linguistic phenomena alongside either
 * [Open Speech Corpora](https://github.com/coqui-ai/open-speech-corpora): A GitHub repo that is a directory to open-access speech corpora. 
 * [RedTyp](https://github.com/jhdeov/RedTyp): A cross-linguistic database of reduplication patterns, along with a finite-state implementation (for 2-way FSTs), incomparable to the [Graz Database on Reduplication](http://reduplication.uni-graz.at/).
 * [StressTyp](http://st2.ullet.net/?): A cross-linguistic database of stress patterns, along with a finite-state implementation (FSAs). 
+* [Talking Dictionaries](talkingdictionary.swarthmore.edu/): A collection of online dictionaries with audio files from endangered languages. 
+* [Turkish Electronic Living Lexicon](https://linguistics.berkeley.edu/TELL/) or TELL: A Turkish dictionary with audio files and morphological segmentation. 
 * [UCLA Phonetics Lab Archive](archive.phonetics.ucla.edu/): A cross-linguistic database of recoreded word lists and other material. 
 * [WikiPron](https://github.com/CUNY-CL/wikipron/): A cross-linguistic database of IPA transcriptons that are extracted from Wiktionary. 
 
