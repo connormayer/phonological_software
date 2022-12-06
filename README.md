@@ -2,6 +2,8 @@
 
 A repository containing links to useful phonological software. The goal is to provide a one-stop shop for phonology-related software.
 
+This repository is maintained by [Hossep Dolatian](https://you.stonybrook.edu/deovlet/) and [Connor Mayer](http://connormayer.com).
+
 ## How to contribute
 
 ### Guidelines
@@ -23,8 +25,12 @@ The best way to add a new resource is to create a pull request via the GitHub us
 
 4. Once you're happy with your changes, scroll to the buttom of the page to the box labeled "Commit changes". Add a name for your proposed change and a description if you wish. Select ""Create a new branch for this commit and start a pull request" and then click "Propose file change".
 
-If you are uncomfortable using GitHub, you can email cjmayer@uci.edu with your proposed changes.
+If you are uncomfortable using GitHub, you can email cjmayer@uci.edu or hossep.dolatian@alumni.stonybrook.edu with your proposed changes.
 
+## General
+
+* [PhonoApps](http://www.phonology.us/): A suite of phonological tools for finding natural classes, deriving surface forms from underlying forms given a list of rules, and other functonality.
+* [Phonomaton](https://www.cs.uky.edu/~raphael/linguistics/phonomaton/phonomaton.cgi): A tool for deriving surface forms from underlying forms. Supports morphological rules and autosegmental tiers.
 
 ## Optimality theory
 
@@ -65,6 +71,11 @@ This includes resources that are focused on learning or modeling general formal 
 * [2IMTSL](https://github.com/alenaks/2IMTSL): A Python implementation for learning MITSL(2,2) grammars. 
 * [OSTIA](https://github.com/alenaks/OSTIA): A Python implementation for the OSTIA learning algorithm.
 * [pTSL](https://github.com/connormayer/pTSL): A Python program for implementing and fitting probabilistic tier-based strictly local grammars.
+
+## Pedagogical tools
+
+* [Phonology Problem Set Generator](https://pages.ucsd.edu/~ebakovic/phonology/): A tool for converting CSVs containing phonological data to problem set PDFs.
+* [PhonoGenesis](https://phonogenesis.accelsnow.com/): A tool for generating toy phonology data sets with specific properties.
 
 ## Data repositories
 This includes resources that collect cross-linguistic phenomena alongside either a) formal grammars or b) enough annotation that can facilitate in-depth phonological analyses. The data can be from real languages or toy languages.
