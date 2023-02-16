@@ -37,7 +37,7 @@ If you are uncomfortable using GitHub, you can email cjmayer@uci.edu or hossep.d
 ### General
 * [Hidden Structure Suite](https://github.com/gajajarosz/hidden-structure): A suite of constraint-based learning algorithms for phonological hidden structure (feet and underlying representations).
 * [OTSoft](https://linguistics.ucla.edu/people/hayes/otsoft/): A Windows program that implements several constraint ranking/weighting procedures, as well as other useful procedures.
-* [OT-Help](https://people.umass.edu/othelp/): Comparable to OTSoft but works on Mac. 
+* [OT-Help](https://people.umass.edu/othelp/): A platform-independent downloadable for finding constraint weightings and constraint rankings, and for calculating typological predictions in both serial and parallel versions of Optimality Theory and Harmonic Grammar.
 
 ### Maxent OT
 * [Hayes and Wilson learner](https://linguistics.ucla.edu/people/hayes/Phonotactics/index.htm): A Java program that learns MaxEnt phonotactic grammars from positive data.
